@@ -5,4 +5,6 @@ The first two images show how to rotate at the center every image. The next both
 
 You could use the accelerometer or the pan gesture recognizer. Also it shows the effect with shadows and without.
 
-[https://gfycat.com/gifs/detail/DisgustingNervousCurlew]
+![example](https://gfycat.com/gifs/detail/DisgustingNervousCurlew)
+
+
